@@ -31,6 +31,16 @@ El código utiliza variables sensibles que deben ser configuradas manualmente an
 | CLIENT_SECRET | Client Secret de WarcraftLogs |
 | TOKEN_URL | Endpoint de autenticación OAuth |
 | API_URL | Endpoint de la API GraphQL |
+ ready
+// Developer Profile
+Cristian Gutiérrez
+const role = "Software Engineer";
+commits
+1000+
+projects
+50+
+coffee
+∞
 
 ⚠️ **Importante:**  
 Estos valores no están incluidos en el repositorio por motivos de seguridad.
@@ -38,7 +48,7 @@ Estos valores no están incluidos en el repositorio por motivos de seguridad.
 ## 🤝 Sobre este proyecto
 
 Este bot nació más que nada por curiosidad y por querer facilitar un poco la vida dentro del contexto de WoW.
-En su momento necesitaba una forma simple de ver los logs de raid sin depender de herramientas externas que ya no estaban funcionando, así que decidí armar algo propio y aprovechar la API de WarcraftLogs.
+En su momento necesitaba una forma simple de ver los logs de raid sin depender de herramientas externas que ya no estaban funcionando (estoy hablando principio de 2025, puede ser que al momento que este leyendo esto ya hayan solucionado el problema, asi que puede ser que ya no sea necesario este bot, asi que tendría que evolucionar a algo más), así que decidí armar algo propio y aprovechar la API de WarcraftLogs.
 Si a alguien le sirve como inspiración o base para algo más, feliz de que lo use.  
 Siéntete libre de adaptarlo, mejorarlo o llevarlo a otro nivel.
 Eso sí, considera que necesitas crear una cuenta en WarcraftLogs para obtener tus credenciales, y desde ahí mismo puedes explorar toda la documentación de su API GraphQL, que está bastante bien explicada y permite hacer consultas bien interesantes.
