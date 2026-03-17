@@ -31,16 +31,6 @@ El código utiliza variables sensibles que deben ser configuradas manualmente an
 | CLIENT_SECRET | Client Secret de WarcraftLogs |
 | TOKEN_URL | Endpoint de autenticación OAuth |
 | API_URL | Endpoint de la API GraphQL |
- ready
-// Developer Profile
-Cristian Gutiérrez
-const role = "Software Engineer";
-commits
-1000+
-projects
-50+
-coffee
-∞
 
 ⚠️ **Importante:**  
 Estos valores no están incluidos en el repositorio por motivos de seguridad.
